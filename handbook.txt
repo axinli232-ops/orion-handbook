@@ -1,0 +1,17 @@
+Orion Project Operations Handbook
+
+Project codename: Silver Birch
+Project owner: Mira Chen
+Emergency contact alias: ops-lantern
+Deployment region: eu-west-3
+Standard deployment window: Tuesday, 02:40-03:10 UTC
+Rollback tool: HarborKey_7
+Recovery runbook: /srv/orion/runbooks/recovery-v4.yaml
+Approval group: Northstar Committee
+Expense approval threshold: $137
+Log retention period: 47 days
+Backup verification day: Thursday
+Incident escalation code: ORN-731
+Maintenance channel: #orion-maintenance
+Default archive bucket: silver-birch-archive-9
+Customer notification deadline: 35 minutes after confirmation
